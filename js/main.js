@@ -561,7 +561,7 @@ require(['jquery'], function ($) {
 			var data = {
 				百科: "https://baike.baidu.com/item/",
 				视频: "https://www.soku.com/m/y/video?q=",
-				豆瓣: "https://m.douban.com/search/?q=",
+				豆瓣: "https://m.douban.com/search/?query=",
 				新闻: "https://news.baidu.com/news#/search/",
 				图片: "https://cn.bing.com/images/search?q=",
 				微博: "https://m.weibo.cn/search?containerid=100103type=1&q=",
